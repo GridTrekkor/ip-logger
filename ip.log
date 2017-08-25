@@ -1,6 +1,9 @@
-{"level":"info","message":"Fri Aug 25 2017 09:14:43 GMT-0500 (Central Daylight Time) ::1","timestamp":"2017-08-25T14:14:43.679Z"}
-{"level":"info","message":"Fri Aug 25 2017 09:14:43 GMT-0500 (Central Daylight Time) ::1","timestamp":"2017-08-25T14:14:43.860Z"}
-{"level":"info","message":"::1","timestamp":"2017-08-25T14:16:51.665Z"}
-{"level":"info","message":"::1","timestamp":"2017-08-25T14:16:51.851Z"}
-{"level":"info","message":"::1","timestamp":"2017-08-25T14:23:00.035Z"}
-{"level":"info","message":"::1","timestamp":"2017-08-25T14:23:00.202Z"}
+{"level":"info","message":"","timestamp":"2017-08-25T14:38:38.377Z"}
+{"level":"info","message":"","timestamp":"2017-08-25T14:38:55.329Z"}
+{"level":"info","message":"::1","timestamp":"08/25/2017 09:46:37"}
+{"level":"info","message":"::1","timestamp":"08/25/2017 09:46:38"}
+[object Object]
+08/25/2017 09:56:59 - info: ::1
+08/25/2017 09:57:00 - info: ::1
+08/25/2017 10:01:11 - info: ::1
+08/25/2017 10:01:11 - info: ::1
