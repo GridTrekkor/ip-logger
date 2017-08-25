@@ -1,5 +1,5 @@
 {
-  "name": "weblogger",
+  "name": "ip-logger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "connect": "^3.6.3",
-    "hapi": "^16.5.2",
-    "request-ip": "^2.0.2"
+    "request-ip": "^2.0.2",
+    "winston": "^2.3.1"
   }
 }
